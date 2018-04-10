@@ -1,0 +1,8 @@
+git pull --allow-unrelated-histories   //Merge master into the branch with the
+:q  // сохранить коммит и выйти
+
+Add and remove files to/from index
+
+git add <filename>
+git commit -m “you commit message” 
+
